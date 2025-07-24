@@ -1,7 +1,6 @@
 ## Hi there 👋
 <p align="left"><b><terminal>🔴 🟡 🟢</terminal></b></p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CC2020&background=&random=false&width=435&lines=IM+ARIF-BROH+I'M+HERE++%F0%9F%A7%90;YES+IM+%7B%F0%9F%98%8A-%F0%9F%91%8B-%F0%9F%98%A9-%F0%9F%98%97-%E2%98%BA-%F0%9F%98%89-%F0%9F%98%AC-%F0%9F%A5%B6-%F0%9F%A7%90%7D" alt="LEWRA" /></a>
-<h1 align="center">Hi 👋, I'm ARIF-BROH</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <img align="right" alt="Coding" width="400" src="https://b.top4top.io/p_2835y06rp0.gif">
